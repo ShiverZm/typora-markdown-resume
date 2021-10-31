@@ -1,70 +1,89 @@
-# XXX
+# 赵少伟
 
-<p style="text-align:center;color:rgb(93,93,93)">一个热爱编程的Java程序员 </p>
-
+<p style="text-align:center;color:rgb(93,93,93)">一个热爱编程的cpp程序员 </p>
 ---
 
 ## 联系方式
 
-- 手机：181631XXXXXX
-- Email：XXX@163.com
-- 微信：XXX
+- 手机：18086414137
+- Email：1113673178@qq.com/timzshiver@gmail.com
+- 微信：zsw2496955520
 
 ## 个人信息
 
 - 男/1996
-- 本科/XXX 大学 XXX 专业/英语 X 级
-- 荣誉奖励：第 10 届 XXX 软件编程 1 等奖（一笔带过）
-- 技术博客：XXX
-- Github：[https://github.com/XXX ](https://github.com/Snailclimb) （没有东西的话就不要放上来）
-- 期望职位：XXX 期望城市：XXX
+- 2019届/本科/文华学院/软件工程/英语6级
+- 职位：国家 软件工程师（中级）
+- 技术博客：csdn:https://blog.csdn.net/qq1113673178
+- Github：[https://github.com/ShiverZm](https://github.com/ShiverZm) 
+- 期望职位：15k-20k  
+- 期望城市：武汉/杭州
 
-## 工作经历/实习经历
+## 实习经历
 
-### XXX 公司 （201X 年 X 月 ~ 201X 年 X 月 ）
+### 武汉敦锋科技 公司 （2018 年 12 月 ~ 2019 年 5 月 ）
 
-- **职位**：Java 后端开发工程师
-- **工作内容**：主要负责 XXX
+- **职位**：安卓开发工程师
+- **工作内容**：主要负责 app开发
+
+## 工作经历
+
+### 武汉网旭科技 公司 （2019 年 7月 ~ 至今）
+
+- **职位**：安卓开发工程师
+- **工作内容**：主要负责 app开发
 
 ## 项目经历
 
-### XXX 系统
+### 小主回家app
 
-201x-201x xxx 公司 xxx 项目 Java 后端开发工程师
+2018-2019 武汉敦锋科技 小主回家物业项目 安卓开发工程师
 
-- **项目描述** : 简单描述项目是做什么的，用了什么技术
-- **工作内容** :简单描述自己做了什么，解决了什么问题，带来了什么实质性的改善。突出自己的能力，不要过于平淡的叙述。
+- **项目描述** : 人脸识别开门和小区住户物业管理App
+- **工作内容** : 负责安卓界面开发
 
-## 开源项目（可选）
+## 傲软投屏
 
-1. XXX
-2. XXX
-3. ......
+2019-2021 武汉网旭科技 傲软投屏win端底层开发 c++工程师
 
-## 原创技术文章（可选）
+- **项目描述** : 电脑手机投屏，win/mac电脑控制手机(android/ios)
 
-1. XXX
-2. XXX
-3. ......
+- **工作内容** : 
 
-## 校园经历（可选）
+    1.反控底层库跨平台开发 2.投屏协议(airplay/dlna/Usb)开发移植
 
-有比较亮眼的校园经历的话就简单写一下，没有就不写！
+  
+
+## 轻闪PDF
+
+2021-2022 武汉网旭科技 轻闪PDF win端底层开发 c++工程师
+
+- **项目描述** : pdf编辑软件
+- **工作内容** : pdf常见功能开发 注释/数字签名/表单
+
+
+
+## 开源项目
+
+
+
+## 校园经历
+
+1.连续三年 学院奖学金
 
 ## 技能清单
 
-- **计算机基础** ：熟练掌握计算机网络、数据结构和算法
-- **Linux** : 熟练使用 Linux，有 Linux 下开发的实际经验
-- **Java**：熟练掌握 Java 基础知识、Java 并发、JVM 调优
-- **数据库**：熟练掌握 MySQL 数据库以及常见优化手段，Redis 使用经验丰富 ，了解 MongoDB
-- **框架**：熟练使用 Spring、Spring MVC、 SpringBoot、MyBatis、JPA、Spring Security 等框架
-- **分布式**：熟练使用 Dubbo、Zookeeper、消息队列 Kafka、RocketMq、Elasticsearch
-- **工具**：熟练使用 Git、Maven、Docker 等常用开发工具
-- **前端**：熟练使用 TypeScript  以及 React、Vue等常见前端框架
+- **计算机基础** ：熟练掌握计算机网络、数据结构、计算机组成原理。
+- **Win/Linux/MacOs** : 熟悉Windows平台、熟练使用 Linux 命令/MacOs命令
+- **Java/C/C++**：熟练Java 、熟练c++，标准库。
+- **数据库**：mysql/sqlite3
+- **框架**：Qt/c++11/
+- **工具**：熟练使用 Git/SVN、Maven、CMake
+- **开发工具**:IDEA/Androidstudio/VistualStuido/XCode
 
 ## 个人评价
 
-我是 XXX
+我是赵少伟
 
 ## 感谢阅读
 
